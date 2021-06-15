@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Alise/AppData/Local/Temp/Temp1_kmw9533-HW-Week02.zip/kmw9533-HW-Week02/Assets/Scenes/Farm.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
